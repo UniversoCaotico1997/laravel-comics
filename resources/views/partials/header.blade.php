@@ -74,5 +74,11 @@
         </div>
         <!-- /.container -->
     </section>
-    <!-- /.section -->
+    <!-- /.navbar -->
+    <section class="jumbotron">
+        <div class="current_series">
+            <h2>current series</h2>
+        </div>
+    </section>
+    <!-- /.jumbotron -->
 </header>

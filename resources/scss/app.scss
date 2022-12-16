@@ -16,3 +16,21 @@ ul {
         }
     }
 }
+
+// jumbotron
+.jumbotron {
+    background-image: url(/resources/img/jumbotron.jpg);
+    background-size: cover;
+    height: 400px;
+    position: relative;
+
+    .current_series {
+        position: absolute;
+        bottom: -25px;
+        left: 170px;
+        color: white;
+        background-color: blue;
+        padding: 0.50rem 1.5rem;
+        text-transform: uppercase;
+    }
+}
