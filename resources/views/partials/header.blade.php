@@ -13,7 +13,7 @@
         <!-- /.container -->
     </section>
     <!-- /.section -->
-    <section class="navbar">
+    <section class="navbar bg-white">
         <div class="container">
             <div class="logo">
                 <img src="{{Vite::asset('resources/img/dc-logo.png')}}" alt="">
