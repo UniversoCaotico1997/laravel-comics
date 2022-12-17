@@ -120,13 +120,14 @@
                 <a href="#">Sign-Up-Now</a>
             </div>
             <div class="social">
-                <h3>Follow Us</h3>
-
-                <img src="{{Vite::asset('resources/img/footer-facebook.png')}}" alt="">
-                <img src="{{Vite::asset('resources/img/footer-twitter.png')}}" alt="">
-                <img src="{{Vite::asset('resources/img/footer-youtube.png')}}" alt="">
-                <img src="{{Vite::asset('resources/img/footer-pinterest.png')}}" alt="">
-                <img src="{{Vite::asset('resources/img/footer-periscope.png')}}" alt="">
+                <h5 class="align-bottom">Follow Us</h5>
+                <div class="social_img">
+                    <img src="{{Vite::asset('resources/img/footer-facebook.png')}}" alt="">
+                    <img src="{{Vite::asset('resources/img/footer-twitter.png')}}" alt="">
+                    <img src="{{Vite::asset('resources/img/footer-youtube.png')}}" alt="">
+                    <img src="{{Vite::asset('resources/img/footer-pinterest.png')}}" alt="">
+                    <img src="{{Vite::asset('resources/img/footer-periscope.png')}}" alt="">
+                </div>
 
             </div>
             <!-- /.social -->

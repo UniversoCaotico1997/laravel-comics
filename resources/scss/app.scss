@@ -1,5 +1,9 @@
 @import '~bootstrap/scss/bootstrap';
 
+
+// default 
+
+
 // Header
 
 //Navbar
@@ -17,6 +21,12 @@ ul {
                 color: #0282F9;
             }
         }
+    }
+}
+
+.logo {
+    img {
+        width: 70%;
     }
 }
 
@@ -64,7 +74,7 @@ ul {
         a {
             margin: 0.75rem 0;
             color: #959595;
-            font-size: x-small;
+            font-size: small;
             text-decoration: none;
         }
     }
@@ -81,9 +91,14 @@ ul {
         display: flex;
         gap: 0.75rem;
 
-
-        h3 {
+        h5 {
             color: #0282F9;
+        }
+    }
+
+    .social_img {
+        img {
+            width: 30px;
         }
     }
 
