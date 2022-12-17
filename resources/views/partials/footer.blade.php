@@ -116,9 +116,10 @@
     <!-- /.list -->
     <section class="contact">
         <div class="container d-flex justify-content-between">
-            <div class="align-self-center">
+            <div class="sign align-self-center">
                 <a href="#">Sign-Up-Now</a>
             </div>
+            <!-- /.sign -->
             <div class="social">
                 <h5 class="align-bottom">Follow Us</h5>
                 <div class="social_img">
