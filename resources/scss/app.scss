@@ -7,6 +7,10 @@ body {
     background-color: #1C1C1C;
 }
 
+img {
+    max-width: 100%;
+}
+
 // Header
 
 //Navbar
@@ -52,6 +56,40 @@ ul {
 }
 
 // /.Header
+
+// Main
+
+// Banner
+.banner {
+    background-color: #0282F9;
+
+}
+
+.square {
+    padding: 1rem 0.75rem;
+
+    img {
+        width: 50px;
+    }
+
+    h5 {
+        text-transform: uppercase;
+        color: white;
+    }
+}
+
+// Banner
+.load_more {
+    width: 200px;
+    color: white;
+    background-color: #0282F9;
+    padding: 0.50rem 1.5rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+// /.Main
 
 
 // Footer
